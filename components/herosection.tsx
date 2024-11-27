@@ -37,12 +37,20 @@ export default function HeroSection() {
       </div>
 
       {/* Content */}
+      <h1 className="text-6xl font-extrabold neon-text mb-4 bg-gradient-to-b from-indigo-600 to-purple-600 md:mt-36 shadow-md shadow-indigo-400">
+      IDEAFORGE
+      </h1>
       <h1 className="text-6xl font-extrabold neon-text mb-4">
         🚀 Unleash Creativity at the UI/UX Hackathon!
       </h1>
-      <p className="text-lg mb-6 text-gray-300 max-w-2xl">
-        Join Mozilla Firefox Club's exciting event to showcase your design skills and collaborate with the best minds in a futuristic challenge. Be part of the revolution!
+      <p className="text-lg mb-6 text-gray-200 font-bold max-w-2xl">
+        December 1, 2024 – December 16, 2024
       </p>
+      <p className="text-lg mb-6 text-gray-300 max-w-2xl">
+      Test your rapid prototyping and design thinking skills!
+      Push the limits of your creativity and innovation to craft
+      something amazing.
+            </p>
       <div className="flex gap-4">
         <button className="bg-transparent border border-indigo-500 hover:bg-indigo-500 text-indigo-500 hover:text-white px-6 py-3 rounded-lg shadow-lg font-bold transition-all">
           Register Now
