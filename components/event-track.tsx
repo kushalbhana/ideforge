@@ -5,7 +5,7 @@ export default function EventsTrack(){
         <>
             <div className=" flex flex-col justify-center items-center mt-16 md:mt-44">
                 <div>
-                    <h1 className="text-2xl md:text-6xl font-bold">Our Event Track</h1>
+                    <h1 className="text-2xl md:text-6xl font-bold bg-gradient-to-r from-indigo-600 to-purple-600">Our Event Track</h1>
                 </div>
 
                 <div className="flex flex-wrap justify-center items-center md:gap-2 p-4">
