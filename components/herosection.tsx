@@ -37,7 +37,7 @@ export default function HeroSection() {
       </div>
 
       {/* Content */}
-      <h1 className="text-6xl font-extrabold neon-text mb-4 bg-gradient-to-b from-indigo-600 to-purple-600 md:mt-36 shadow-md shadow-indigo-400">
+      <h1 className="text-6xl font-extrabold neon-text mb-4 bg-gradient-to-b from-indigo-600 to-purple-600 mt-10 md:mt-36 shadow-md shadow-indigo-400">
       IDEAFORGE
       </h1>
       <h1 className="text-6xl font-extrabold neon-text mb-4">
@@ -82,11 +82,6 @@ export default function HeroSection() {
       </div>
 
       {/* Illustration or graphic */}
-      <img
-        src="/path-to-hackathon-illustration.png"
-        alt="Hackathon Illustration"
-        className="absolute bottom-0 w-1/3 pointer-events-none opacity-80"
-      />
     </div>
     </BackgroundBeamsWithCollision>
     </>
