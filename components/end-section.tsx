@@ -57,7 +57,7 @@ export function EndSection(){
                         <p>
                         We’ve put together the answers to the most common questions.
                         If you can’t find the answer you’re looking for, feel free to
-                        reach out to us at <a className="text-sky-600" href="mozilla.firefox@vitbhopal.ac.in ">mozilla.firefox@vitbhopal.ac.in</a>.
+                        reach out to us at <a className="text-sky-600" href="mailto:mozilla.firefox@vitbhopal.ac.in">mozilla.firefox@vitbhopal.ac.in</a>.
                         </p>
                     </div>
                 </div>
