@@ -59,7 +59,7 @@ export default function HeroSection() {
           Event Details
         </button>
       </div>
-      <div className="mt-10">
+      <div className="mt-10 mb-10">
         <h3 className="text-2xl font-semibold text-gray-300">Event Starts In:</h3>
         <div className="flex justify-center space-x-4 text-3xl mt-4">
           <div>
