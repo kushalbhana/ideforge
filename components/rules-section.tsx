@@ -23,7 +23,7 @@ export function RulesAndTechnical(){
                     </div>
                 </div>
 
-                <div className=" flex flex-col md:w-1/2 mt-5">
+                <div className=" flex flex-col md:w-1/2 mt-5 p-5">
                     <div>
                         <h1 className="text-4xl md:text-3xl font-bold bg-gradient-to-r from-indigo-600 to-purple-600">
                         TECHNICAL SUPPORT AND PLATFORM
@@ -40,6 +40,32 @@ export function RulesAndTechnical(){
                             <span className="font-bold text-red-600">PLATFORM</span> : Google Meet  <br />
                         
                         </h1>
+                    </div>
+                </div>
+
+            </div>
+
+            <div className="mb-10 flex flex-col">
+                <div>
+                    <h1 className="text-4xl md:text-3xl font-bold bg-gradient-to-r from-indigo-600 to-purple-600">
+                            Contact Us
+                    </h1>
+                    <h1 className="text-xl md:text-2xl mt-2">
+                    Student Coordinators:
+                    </h1>
+                    <div>
+                    <ul className="list-disc pl-6 space-y-2">
+                        <li>
+                            <p className="text-lg font-medium text-red-500">Ankit: <span className="text-gray-500">+91 9305441865</span></p>
+                        </li>
+                        <li>
+                            <p className="text-lg font-medium text-red-500">Shreya Raj Gupta: <span className="text-gray-500">+91 8889345211</span></p>
+                        </li>
+                        <li>
+                            <p className="text-lg font-medium text-red-500">Ayush Monga: <span className="text-gray-500">+91 9755544336</span></p>
+                        </li>
+                    </ul>
+
                     </div>
                 </div>
 
