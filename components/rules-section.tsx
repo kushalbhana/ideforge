@@ -1,7 +1,7 @@
 export function RulesAndTechnical(){
     return(
         <>
-            <div className="mt-12 md:mt-44 md:flex md:flex-wrap md:justify-center p-5">
+            <div className="mt-6 md:mt-44 md:flex md:flex-wrap md:justify-center p-5">
                 <div className=" flex flex-col md:w-1/2 p-5">
                     <div>
                         <h1 className="text-4xl md:text-3xl font-bold bg-gradient-to-r from-indigo-600 to-purple-600">

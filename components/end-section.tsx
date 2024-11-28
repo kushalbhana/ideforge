@@ -2,7 +2,7 @@ export function EndSection(){
     return (
         <>
             <div className="flex flex-col justify-center items-center w-full">
-                <div className="mt-28 flex justify-center items-center w-full">
+                <div className=" mt-6 md:mt-28 flex justify-center items-center w-full">
                     <div className="w-2/3">
                         <h1 className="text-3xl font-bold">[Register Now]</h1>
                         <p className="font-bold mt-3 mb-2 text-slate-500">Date: 01-12-2024 to 16-12-2024</p>
