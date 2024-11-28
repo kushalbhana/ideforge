@@ -46,7 +46,7 @@ export function RulesAndTechnical(){
             </div>
 
             <div className="mb-10 flex flex-col p-5">
-                <div>
+                <div className="p-5">
                     <h1 className="text-4xl md:text-3xl font-bold bg-gradient-to-r from-indigo-600 to-purple-600">
                             Contact Us
                     </h1>

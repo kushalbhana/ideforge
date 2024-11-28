@@ -5,7 +5,7 @@ export default function HeroSection() {
   const [timeLeft, setTimeLeft] = useState({ days: 0, hours: 0, minutes: 0, seconds: 0 });
 
   useEffect(() => {
-    const targetDate = new Date("2024-12-15T10:00:00"); // Replace with your event date
+    const targetDate = new Date("2024-12-01T10:00:00"); // Replace with your event date
     const timer = setInterval(() => {
       const now = new Date();
     //   @ts-ignore
@@ -63,7 +63,7 @@ export default function HeroSection() {
         <h3 className="text-2xl font-semibold text-gray-300">Event Starts In:</h3>
         <div className="flex justify-center space-x-4 text-3xl mt-4">
           <div>
-            <p className="font-bold">{timeLeft.days}</p>
+            <p className="font-bold">0{timeLeft.days}</p>
             <p className="text-sm text-gray-400">Days</p>
           </div>
           <div>
