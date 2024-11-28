@@ -20,7 +20,7 @@ export function RoundsSection() {
                     </div>
                     <div className="p-8 relative">
                         <img
-                            src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fclpwpj3og000f357f0vttkxzm%2Fundefined_imageLink_aaeo0jgn.jpg&w=1080&q=75"
+                            src="https://media.istockphoto.com/id/1416797815/photo/golden-number-one.jpg?s=612x612&w=0&k=20&c=A1AOP7RZK8Rkk2yxEumTlWmhQE-0nGfxVz3Ef39Dzxc="
                             alt=""
                             className="w-full max-w-md object-contain rounded-md shadow-lg relative z-10"
                         />
@@ -33,7 +33,7 @@ export function RoundsSection() {
                 <div className="mt-20 flex justify-center items-center w-full">
                     <div className="p-8 relative">
                         <img
-                            src="https://pbs.twimg.com/media/GNJpA-FWQAAtCfw.jpg"
+                            src="https://media.gettyimages.com/id/1447117571/video/number-2-glitch-text-animation-effect-on-old-interference-screen-4k-video.jpg?s=640x640&k=20&c=3hQgRx3MuA3iCJAllnQDxQINE_F9P7IRbvXGHSMLaag="
                             alt=""
                             className="w-full max-w-md object-contain rounded-md shadow-lg relative z-10"
                         />
@@ -77,7 +77,7 @@ export function RoundsSection() {
                     </div>
                     <div className="p-8 relative">
                         <img
-                            src="https://pbs.twimg.com/media/GNJpA-FWQAAtCfw.jpg"
+                            src="https://marketplace.canva.com/EAFQ8Jb8hes/2/0/1600w/canva-futuristic-black-silver-countdown-start-event-animated-video-l1dejwhHc_Q.jpg"
                             alt=""
                             className="w-full max-w-md object-contain rounded-md shadow-lg relative z-10"
                         />
@@ -90,7 +90,7 @@ export function RoundsSection() {
                 <div className="mt-20 flex justify-center items-center w-full">
                     <div className="p-8 relative">
                         <img
-                            src="https://pbs.twimg.com/media/GNJpA-FWQAAtCfw.jpg"
+                            src="https://png.pngtree.com/background/20230612/original/pngtree-sparkly-number-4-is-set-against-a-black-background-picture-image_3177422.jpg"
                             alt=""
                             className="w-full max-w-md object-contain rounded-md shadow-lg relative z-10"
                         />
