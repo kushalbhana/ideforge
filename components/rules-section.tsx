@@ -23,7 +23,7 @@ export function RulesAndTechnical(){
                     </div>
                 </div>
 
-                <div className=" flex flex-col md:w-1/2 mt-5 p-5">
+                <div className=" flex flex-col md:w-1/2 p-5">
                     <div>
                         <h1 className="text-4xl md:text-3xl font-bold bg-gradient-to-r from-indigo-600 to-purple-600">
                         TECHNICAL SUPPORT AND PLATFORM
@@ -45,7 +45,7 @@ export function RulesAndTechnical(){
 
             </div>
 
-            <div className="mb-10 flex flex-col">
+            <div className="mb-10 flex flex-col p-5">
                 <div>
                     <h1 className="text-4xl md:text-3xl font-bold bg-gradient-to-r from-indigo-600 to-purple-600">
                             Contact Us
