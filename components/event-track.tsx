@@ -25,7 +25,7 @@ export default function EventsTrack(){
                     content={{title: "Round 3: Presentation", 
                     date:"December 15, 2024",
                     image:"https://pbs.twimg.com/media/GNJpA-FWQAAtCfw.jpg", 
-                    content:"Prepare and present your idea and prototype through a PowerPoint presentation. Showcase your development process, expected outcomes, and challenges faced."}}
+                    content:"Prepare and present your idea and prototype through a PowerPoint presentation. Showcase your development process, expected outcomes."}}
                     />
                    
                 </div>
