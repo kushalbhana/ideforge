@@ -4,10 +4,12 @@ import { RoundsSectionSmall} from "../components/rounds-section-small"
 import EventsTrack  from "../components/event-track"
 import { RulesAndTechnical } from "../components/rules-section"
 import { EndSection } from "../components/end-section"
+import { SpeedInsights } from "@vercel/speed-insights/react"
 
 export default function App() {
   return (
     <div>
+      <SpeedInsights/>
       <HeroSection/>
       <div className="w-full bg-gradient-to-b from-gray-950 dark:to-black text-slate-200 flex flex-col">
         <div className="w-full bg-gradient-to-b from-gray-950 dark:to-black text-slate-200 flex justify-center">
