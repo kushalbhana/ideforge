@@ -5,6 +5,7 @@ import EventsTrack  from "../components/event-track"
 import { RulesAndTechnical } from "../components/rules-section"
 import { EndSection } from "../components/end-section"
 import { SpeedInsights } from "@vercel/speed-insights/react"
+import { ThemesSection } from "../components/themes-section"
 
 export default function App() {
   return (
@@ -17,11 +18,15 @@ export default function App() {
           <div className="max-w-7xl hidden md:block">
             <RoundsSection/>
           </div>
-
-          <div className="max-w-7xl md:hidden">
-            <RoundsSectionSmall/>
-          </div>
-
+          
+            <div className="max-w-7xl md:hidden">
+              <RoundsSectionSmall/>
+            </div>
+        </div>
+        <div className=" w-full flex justify-center items-center">
+          <div className="max-w-7xl">
+              <ThemesSection/>
+            </div>
         </div>
 
         <div>
