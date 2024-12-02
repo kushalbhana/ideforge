@@ -2,6 +2,11 @@
 export function ThemesSection(){
     return (
         <div>
+                <div className="mt-20 flex justify-center items-center">
+                    <h1 className="text-6xl">
+                        Themes
+                    </h1>
+                </div>
             <div className="md:flex md:flex-wrap">
                 <div className="md:w-1/2 p-4">
                     <h1 className="text-4xl font-extrabold neon-text mb-4 bg-gradient-to-b from-indigo-600 to-purple-600 mt-10 md:mt-36 shadow-md shadow-indigo-400">
